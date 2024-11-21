@@ -78,6 +78,7 @@ Ensure you have the following installed:
 
 6. Access the App: Open the URL displayed in the terminal, typically http://localhost:8501.
 
+---
 ## 🔧 Deployment
 
 This project is ready to be deployed on Render or similar platforms. Follow these steps:
@@ -89,6 +90,7 @@ This project is ready to be deployed on Render or similar platforms. Follow thes
 5. Add environment variables if necessary (e.g., TMDB API key).
 6. Deploy the app, and Render will handle the rest.
 
+---
 ## 📬 Contact
 For queries, suggestions, or collaboration, feel free to reach out to me:
 
@@ -96,10 +98,12 @@ LinkedIn: [Vedant Roy](https://www.linkedin.com/in/vedant-roy-b58117227/)
 GitHub: [Vedantroy475](https://github.com/Vedantroy475)
 Email: vedantroy3@gmail.com
 
+---
 ## 🔗 References
 TMDB API: The Movie Database API
 Dataset: TMDb 5000 Movie Dataset on Kaggle
 
+---
 ## 🙌 Acknowledgments
 Special thanks to TMDB and Kaggle for providing the data and resources for this project.
 
