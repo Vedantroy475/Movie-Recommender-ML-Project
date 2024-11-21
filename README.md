@@ -71,6 +71,8 @@ Ensure you have the following installed:
     - movie_list.pkl
 
     - similarity.pkl  # These files are automatically downloaded from Google Drive during the app's runtime.
+    - Or if you want, you can run the python code available at google colab on [here](https://colab.research.google.com/drive/1fBWvjzMKpQuqzI8ixl_RET4dFjAvSLju?usp=sharing). Make sure you first upload the 2 datasets by downloading them from the following links:
+    - Link for [tmdb_5000_movies.csv](https://drive.google.com/file/d/1iA7ErSNXtFwj8bNlZE3BYf6ObyGCLIqz/view?usp=sharing) and link for [tmdb_5000_credits.csv](https://drive.google.com/file/d/1i4wKN3SHpoE8X_AkF-pwuUlUdLfUNBZC/view?usp=sharing).
 
 5. Run the Application:
     ```bash
