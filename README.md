@@ -84,8 +84,8 @@ Ensure you have the following installed:
 ## 📄 Additional Files
 The repository includes:
 
-1. Project Report: A detailed explanation of the project in PDF format (** Vedant Roy Minor Project Report on Movie Recommendation System.pdf **).
-2. Presentation Slides: A concise slide deck used for the college presentation in pdf format (** Vedant Roy Minor Project Movie-Recommender-System PPT.pdf **).
+1. Project Report: A detailed explanation of the project in PDF format (**Vedant Roy Minor Project Report on Movie Recommendation System.pdf**).
+2. Presentation Slides: A concise slide deck used for the college presentation in pdf format (**Vedant Roy Minor Project Movie-Recommender-System PPT.pdf**).
 ---
 ## 🔧 Deployment
 
