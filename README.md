@@ -99,6 +99,17 @@ This project is ready to be deployed on Render or similar platforms. Follow thes
 6. Deploy the app, and Render will handle the rest.
 
 ---
+## 🎥 Demo Video
+Excited to see how the Movie Recommender System works? Check out the demo video showcasing the project in action! It demonstrates:
+
+The interactive Streamlit interface.
+Movie recommendation functionality.
+Poster fetching using the TMDB API.
+Click the link below to watch the full demo:
+[Watch Demo Video](https://drive.google.com/file/d/1N0rXA0NhheV-fT-t9lmB8Udl1yRAfpGH/view?usp=sharing)
+
+This video provides a comprehensive walkthrough of the project and its features. Let me know your feedback or suggestions! 😊
+---
 ## 📬 Contact
 For queries, suggestions, or collaboration, feel free to reach out to me:
 
