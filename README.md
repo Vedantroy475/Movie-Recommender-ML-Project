@@ -1,6 +1,6 @@
 # 🎥 Movie Recommender System
 
-This project is a **Machine Learning-based Movie Recommender System** that provides personalized movie recommendations based on the movie you select. The application is powered by Python, Streamlit, and machine learning techniques, leveraging cosine similarity and the TMDB dataset.  
+This project is a **Machine Learning-based Movie Recommender System** done as part of minor project at my college, **University School of Automation and Robotics, IPU East Campus, New Delhi**. This project provides personalized movie recommendations based on the movie you select. The application is powered by Python, Streamlit, and machine learning techniques, leveraging cosine similarity and the TMDB dataset.  
 
 ---
 
@@ -30,7 +30,7 @@ This project uses the **TMDb 5000 Movies dataset** from Kaggle, which includes:
 - Revenue and budget details
 - TMDB IDs for fetching posters
 
-### Files:
+### Dataset Files:
 
 - `tmdb_5000_movies.csv`
 - `tmdb_5000_credits.csv`
@@ -80,6 +80,12 @@ Ensure you have the following installed:
 
 6. Access the App: Open the URL displayed in the terminal, typically http://localhost:8501.
 
+---
+## 📄 Additional Files
+The repository includes:
+
+1. Project Report: A detailed explanation of the project in PDF format (Vedant Roy Minor Project Report on Movie Recommendation System.pdf).
+2. Presentation Slides: A concise slide deck used for the college presentation in pdf format (Vedant Roy Minor Project Movie-Recommender-System PPT.pdf).
 ---
 ## 🔧 Deployment
 
